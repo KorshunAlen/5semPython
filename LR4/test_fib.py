@@ -1,4 +1,4 @@
-import unittest
+
 from gen_fib import my_genn
 
 

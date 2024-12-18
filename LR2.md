@@ -104,3 +104,7 @@
             weather_data = get_weather_data(city, api_key=owm_api_key)
             if weather_data:
                 print(weather_data)
+
+Вывод программы:
+
+![image](https://github.com/user-attachments/assets/5f3103b6-768c-443a-b742-2afc87d44de2)
